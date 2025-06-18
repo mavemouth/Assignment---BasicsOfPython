@@ -1,1 +1,1 @@
-# Assignment on Basics Of Python
+# Thapar Summer School
